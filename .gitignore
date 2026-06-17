@@ -1,0 +1,9 @@
+.venv/ 
+__pycache__/ 
+*.pyc 
+.python-version 
+uv.lock 
+pyproject.toml 
+yolov3.weights 
+test_video.mp4 
+output_video.mp4 
