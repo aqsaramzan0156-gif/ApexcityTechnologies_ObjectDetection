@@ -6,11 +6,8 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
 </p>
 
-A real-time object detection and tracking system built with YOLO and OpenCV for the Apexcity Technologies AI Internship (Task 4).
+A real-time object detection and tracking system built with YOLO and OpenCV for the Apexcity Technologies AI Internship.
 
-## 📸 Demo
-
-![Demo](demo.gif) *(Add a GIF or screenshot of your output here)*
 
 ## ✨ Features
 
@@ -40,9 +37,6 @@ python -m venv .venv
 # Install dependencies
 pip install opencv-python numpy matplotlib
 
-# Download the YOLO weights file (237 MB)
-# Link: https://pjreddie.com/media/files/yolov3.weights
-# Place it in the project folder.
 
 # Run the detection script
 python main.py
@@ -86,5 +80,5 @@ MIT License — Free to use, modify, and distribute.
 ---
 
 <p align="center">
-  <sub>Built with ❤️ in Python for ApexcityTechnologies AI Internship — Task 4</sub>
+  <sub>Built with ❤️ in Python for ApexcityTechnologies AI Internship</sub>
 </p> 
